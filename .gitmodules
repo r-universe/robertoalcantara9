@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "LearnClust"]
 	path = LearnClust
 	url = https://github.com/cran/LearnClust
-	shallow = true
-	registered = true
